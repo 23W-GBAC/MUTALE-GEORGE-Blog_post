@@ -6,7 +6,6 @@ So in my blog posts I am mainly focusing on the premeable of my business ideolog
 Please enjoy your stay on my page and if you like my information 
 - Please follow my GITHUB page 
 - Incase of any inquiries or comments please do not hestate to drop your comments 
-- Send me an email via mutalegeorge367@gmail.com. 
-<br>Thank you </br>
+- Send me an email via mutalegeorge367@gmail.com. <br>Thank you </br>
 
 
