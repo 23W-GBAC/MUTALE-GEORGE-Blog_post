@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate with anyone who would want me to change them or them to change me
 - 📫 How to reach me mutalegeorge367@gmail.com
 
-## [Personal Content](Personal_content_blog.md)
+## [Personal Blog](Personal_content_blog.md)
 
-## [Automation](AUTOMATION_problem_one_solved.md)
+## [Automations](AUTOMATION_problem_one_solved.md)
