@@ -1,4 +1,4 @@
-#I HAVE TO MAKE IT HAPPEN
+# I HAVE TO MAKE IT HAPPEN
 - 👋 Hi, I’m @GEORGEMUTALE
 - 👀 I’m interested in impacting skills into any thing that developes me and the people around me
 - 🌱 I’m currently learning a bachelors of health informatics at deggendorf institute of technology
