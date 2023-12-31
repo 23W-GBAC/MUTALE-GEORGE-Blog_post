@@ -28,10 +28,7 @@ portfolio-generator/
 |   |-- portfolio_data.json
 |-- templates/
 |   |-- index_template.html
-|   |-- new_personal.html
-|  
-|   
-|   
+|    
 |-- output/
 |-- generator.py
 ```
