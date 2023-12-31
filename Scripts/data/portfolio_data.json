@@ -1,0 +1,47 @@
+{
+    "name": "MUTALE GEORGE",
+    
+    "profile": "Passionate about technology and healthcare",
+    "projects": [
+      {
+        "title": "Photography",
+        "description": "I have been a wedding photography since 2020",
+        "link": "https://www.facebook.com/photo/?fbid=471283727677735&set=a.124926355646809"
+      },
+      {"title": "Graphics",
+        "description": "I started this project inorder to improve my photo outputs",
+        "link": ""
+      },
+      {"title": "Programming",
+        "description": "Creation of automations is my game.Checkout this",
+        "link": "https://23w-gbac.github.io/MUTALE-GEORGE-Blog_post"
+      }
+    
+    ],
+    "skills": ["Python", "JSON", "HTML/CSS"],
+    "education": [
+      {
+        "Award": "Uganda Certificate of Education",
+        "institution": "Kajjansi Progressive Senior Secondary School",
+        "year": 2021
+      },
+      {
+        "Award": "Uganda Advanced Certificate of Education",
+        "institution": "Kajjansi Progressive Senior Secondary School",
+        "year": 2021
+      },
+      {
+        "Award": "Bachelor of Science in Health Informatics",
+        "institution": "Deggendorf Institute of Applied Sciences",
+        "year": "Currently enrolled"
+      }
+    
+    ],
+    "contact": {
+      "email": "mutalegeorge367.com",
+      "Facebook": "https://www.facebook.com/george.williamson.3538039",
+      "LinkedIn": "https://www.linkedin.com/in/mutale-george-a66466268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "github": "https://github.com/GEORGEMUTALE"
+    }
+  }
+  

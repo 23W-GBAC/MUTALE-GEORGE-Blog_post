@@ -1,0 +1,39 @@
+[Home](https://23w-gbac.github.io/MUTALE-GEORGE-Blog_post/)*<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ name }} - Portfolio</title>
+</head>
+<body>
+  <h1>{{ name }}</h1>
+  <p>{{ profile }}</p>
+  <h2>Projects</h2>
+  <ul>
+    {% for project in projects %}
+      <li>
+        <strong>{{ project.title }}</strong>: {{ project.description }} - <a href="{{ project.link }}">Link</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <h2>Skills</h2>
+  <ul>
+    {% for skill in skills %}
+      <li>{{ skill }}</li>
+    {% endfor %}
+  </ul>
+  <h2>Education</h2>
+  <ul>
+    {% for education_item in education %}
+      <li>
+        <strong>{{ education_item.Award }}</strong> - {{ education_item.institution }} ({{ education_item.year }})
+      </li>
+    {% endfor %}
+  </ul>
+  <h2>Contact</h2>
+  <p>Email: <a href = "{{ contact.email }}">Link</a></p>
+  <p>Facebook: <a href = "{{ contact.Facebook }}">Link</a></p>
+  <p>LinkedIn: <a href = "{{ contact.LinkedIn }}">Link</a></p>
+  <p>github: <a href = "{{ contact.github }}">Link</a></p>
+</body>
+</html>
