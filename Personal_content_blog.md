@@ -23,7 +23,7 @@ I am proficient in English, Luganda, and Lusoga. I can also speak and write basi
 ## <p align="center"> SOME OF MY GRAPHICS CONTENT CREATIONS</p>
 
 <p align="center">
-  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/91ef068f-6309-486b-977e-18664d930141" alt="Your Image Description" width="600">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/91ef068f-6309-486b-977e-18664d930141" alt="Your Image Description" width="350">
 </p>
 
 ### ARYAMPA JOSHUA - Co-founder 
