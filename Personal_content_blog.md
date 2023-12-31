@@ -49,5 +49,6 @@ To promote the well-being of all by spearheading the application of computing an
 
 ## VISION
 To establish telemedicine as a widely adopted practice across the globe.
+
 *[Home](https://23w-gbac.github.io/MUTALE-GEORGE-Blog_post/)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Previous](README.md)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Next](Automation1.md)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Back to Repository](https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post)*
 
