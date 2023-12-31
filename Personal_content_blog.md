@@ -37,7 +37,8 @@ I am proficient in English, Luganda, and Lusoga. I can also speak and write basi
 <p align="center">
   <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/8a5e2e3a-2321-40f0-b79c-d6673403d435" alt="UGANDA" width="600">
 </p>
-
+### Follow me for more but let me continue with the other founder of this beautiful company.
+---
 ### ARYAMPA JOSHUA - Co-founder 
 
 A little about Joshua
