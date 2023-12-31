@@ -40,7 +40,8 @@ Joshua and I discovered that Ugandans have access to various technological gadge
 During our high school years, we studied Chemistry, Mathematics, and Information and Communication Technology (ICT) together. However, Joshua was additionally taking Physics, while I focused on Biology. Currently, Joshua is pursuing software engineering, and I am studying Health Informatics. Our company therefore has a team of future experts in both medical and computing fields, and our goal is to use our combined knowledge and skills to educate Ugandans on how to use their gadgets for paramedical support beyond entertainment.
 
 We plan to eventually expand this initiative to other countries. In addition, we have also equipped ourselves with graphic design skills to create excellent branding for our services, making more people aware of our company. By the end of our bachelor's degree, we hope to master web development and make more connections who can support our cause.
-
+## SOME OF THE GRAPHICS CONTENT I HAVE DONE
+![thinker](https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/91ef068f-6309-486b-977e-18664d930141)
 ### How shall we implement this solution?
 Firstly, we need to establish a network of medical professionals and computing specialists to conduct thorough research in the field of health and technology. We should then create reliable software systems that can efficiently collect and store data. It is crucial to build a secure system that ensures the confidentiality, integrity, and availability of the collected data. My commitment to data security has motivated me to pursue a master's degree in cybersecurity and establish connections with like-minded individuals in my class, as they are the ones who most likely will support this noble cause. Finally, we should continuously monitor the progress and impact of our efforts on society and identify areas of improvement where inefficiencies exist.
 
