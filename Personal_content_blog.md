@@ -23,7 +23,19 @@ I am proficient in English, Luganda, and Lusoga. I can also speak and write basi
 ## SOME OF MY GRAPHICS CONTENT CREATIONS
 
 <p align="center">
-  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/91ef068f-6309-486b-977e-18664d930141" alt="Your Image Description" width="600">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/91ef068f-6309-486b-977e-18664d930141" alt="THINK BIG" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/a3808c6d-e714-4d6a-9aaf-460d1c72fb30" alt="YPIUS BIRTHDAY" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/c4da99f1-b38a-473c-b28a-897cfd8c758a" alt="Your Image Description" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/481be8ed-417d-4c44-aea2-85e88fe8b53c" alt="BURGER KING" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/8a5e2e3a-2321-40f0-b79c-d6673403d435" alt="UGANDA" width="600">
 </p>
 
 ### ARYAMPA JOSHUA - Co-founder 
