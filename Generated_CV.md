@@ -4,7 +4,7 @@
 Passionate about technology and healthcare
 
 ## Projects
-- 
+ 
   - **Photography**: I have been a wedding photography since 2020 - [Link](https://www.facebook.com/photo/?fbid=471283727677735&set=a.124926355646809)
   
   - **Graphics**: I started this project inorder to improve my photo outputs - [Link]()
@@ -13,7 +13,7 @@ Passionate about technology and healthcare
   
 
 ## Skills
-- 
+ 
   - Python
   
   - JSON
@@ -22,7 +22,7 @@ Passionate about technology and healthcare
   
 
 ## Education
-- 
+
   - **Uganda Certificate of Education** - Kajjansi Progressive Senior Secondary School (2021)
   
   - **Uganda Advanced Certificate of Education** - Kajjansi Progressive Senior Secondary School (2021)
