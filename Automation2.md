@@ -11,6 +11,7 @@ In this IDE, I downloaded the following extensions
 - [x] markdown
 
 since my automation involved json python and markdown files.
+
 #### Instructions
 - After installing the above extensions
 - Create all required files in one folder
@@ -18,6 +19,7 @@ since my automation involved json python and markdown files.
 - Write some content in it
 - Press ``` Ctrl + \ ``` to split the editor.
 - Then press ``` Ctrl + Shift + V``` to change one README.md into a preview file.
+
 ### Images for description 
 <p align="center">
   <img src="https://github.com/23W-GBAC/MUTALE-GEORGE-Blog_post/assets/148863672/caf8cb99-61c5-4184-b047-ca83d9ce2acc" alt="JSON" width="600">
