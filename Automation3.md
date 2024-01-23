@@ -141,7 +141,15 @@ The HTML template (index_template.html) uses Jinja2 syntax to create a dynamic H
 </html>
 
 ```
-### RECEIVE MY CALL
+
+# POWER OF AUTOMATION
+It costed me four weeeks to come up with the scripts that can generate a cv.Right now a person can come up with a cv within 2 minutes in a simple and an organised way.
+In most cases CVs are required in several business companies because they summarise ones skills and projects which saves time of convincing an employer.However much this document is an essential document in the business world, 
+- Most people lack the creativity of designing one.Actually some see it as tiresome to comeup with a better design to present to their employers.
+- In the 5 years time, an employee will only have to feed in the information as required and the cv is automatically generated which reduces the use of papers in the community as well as conserving the environment.
+- This format of cv also creates the option of updating your skills as many as you want and can add links to several social media platforms which gives an employer a broad spectrum to dive into your personal projects as far as they would want.
+
+## RECEIVE MY CALL
 I am kindly requesting for the class participation to fork my repository and pull requsts in case of any inquire but it would add much more value if you use my template to build your personal cover letters or cirrculum vitae. Remember to always subscribe on my social media platforms follow share like and comment if you find my work helpful.
 
 *[Home](https://23w-gbac.github.io/MUTALE-GEORGE-Blog_post/)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
